@@ -1,2 +1,2 @@
-# to_delete6
+# Helping Hand
 Describe the training.
